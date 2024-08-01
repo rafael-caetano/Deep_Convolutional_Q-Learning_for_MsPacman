@@ -1,0 +1,8 @@
+# Ignore Python bytecode files
+src/*.pyc
+
+# Ignore Python bytecode files in the src folder
+src/__pycache__/
+
+# Ignore model files in the outputs folder
+outputs/*.pth
